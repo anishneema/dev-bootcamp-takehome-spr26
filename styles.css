@@ -1,3 +1,20 @@
 /* Your Styles Here */
-body{
+body {
+    padding: 20px;
+    background-color: #add8e6;
+}
+
+div {
+    border: 1px solid black;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px auto;
 }
